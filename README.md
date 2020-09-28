@@ -1,4 +1,4 @@
-# XXX Backend
+# NGWS Backend
 
 Backend for the XXX seed
 
