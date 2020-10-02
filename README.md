@@ -1,6 +1,6 @@
 # NGWS Backend
 
-Backend for the XXX seed
+Backend for the NGWS seed
 
 ### Setup
 Install nodejs and mysql.
